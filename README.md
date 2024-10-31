@@ -26,5 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjaykumar-2005&show_icons=true&locale=en" alt="sanjaykumar-2005" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaykumar-2005&" alt="sanjaykumar-2005" /></p>
-
-
