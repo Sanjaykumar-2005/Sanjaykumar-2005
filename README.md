@@ -1,11 +1,11 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Sanjaykumar M</h1>
-<h3 align="center">Sophomore at VIT | Full-stack developer | Passionate about Automation and AI-driven solutions</h3>
+<h3 align="center">Student at VIT | Embedded Enginner | Passionate about Automation, AI-driven solutions and Development</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaykumar-2005&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaykumar-2005" /> </p>
 
-- 🌱 I’m currently learning **AI and ML, IoT and Embedded Systems**
+- 🌱 I’m currently exploring deep in **AI and ML and Embedded Systems**
 
 - 💬 Ask me about **react, node, flask and postgresql**
 
