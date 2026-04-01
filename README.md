@@ -28,6 +28,7 @@
 # 📊 GitHub Stats:
 <div style="display: flex; gap: 1rem; justify-content: center; align-items: stretch;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanjaykumar-2005&theme=blueberry" width="88.5%" alt="Profile Details"/>
+  
   <img src="https://streak-stats.demolab.com/?user=Sanjaykumar-2005&theme=blueberry&hide_border=true" width="50%" alt="GitHub Streak" />
   
 
@@ -35,4 +36,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
